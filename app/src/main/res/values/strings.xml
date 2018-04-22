@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchableRecyclerView</string>
+    <string name="searchable">Input appliance type</string>
+    <string name="search_button">Search</string>
+    <string name="appliance_name">Tv/Ac</string>
+    <string name="seller_name">Amazon</string>
+    <string name="seller_name2">Wal-Mart</string>
+    <string name="seller_name3">Target</string>
+    <string name="product_price">Rs.25000/-</string>
+    <string name="description">4K HDR Processor X1 Extreme for outstanding realism.Unprecedented contrast with Backlight Master Drive.Amazing contrast with X-tended Dynamic Range™ PROWide colour gamut with TRILUMINOS Display</string>
+    <string name="Buy">Buy</string>
+</resources>
